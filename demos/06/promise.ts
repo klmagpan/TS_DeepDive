@@ -1,3 +1,4 @@
+// Syntax Error
 type PromiseTypes = [Promise<number>, Promise<string>, Promise<{key : string}>];
 
 const promises: PromiseTypes = [
