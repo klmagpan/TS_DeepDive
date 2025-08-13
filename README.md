@@ -1,5 +1,5 @@
 # TS_DeepDive
-TypeScript Deep Dive
+TypeScript 5 Deep Dive
 
 ## Technologies Used
 TypeScript
